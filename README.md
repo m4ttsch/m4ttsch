@@ -1,8 +1,7 @@
 ### Hi there, I like to code 🦖
 
-<figure>
-  <embed src="https://wakatime.com/share/@cc1719f5-409f-422d-a33e-f53b2cf48eaf/460654a0-25c8-41c1-bce7-2d4e7891440b.svg" />
-</figure>
+.. image:: https://wakatime.com/share/@cc1719f5-409f-422d-a33e-f53b2cf48eaf/50005d44-24dc-45d4-b27b-1aae0a463a1f.png
+    :target: https://wakatime.com/
 
 <!--
 **m4ttsch/m4ttsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

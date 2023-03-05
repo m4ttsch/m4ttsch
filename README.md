@@ -1,5 +1,9 @@
 ### Hi there, I like to code 🦖
 
+<figure>
+  <embed src="https://wakatime.com/share/@cc1719f5-409f-422d-a33e-f53b2cf48eaf/460654a0-25c8-41c1-bce7-2d4e7891440b.svg" />
+</figure>
+
 <!--
 **m4ttsch/m4ttsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

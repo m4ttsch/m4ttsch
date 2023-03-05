@@ -1,7 +1,5 @@
 ### Hi there, I like to code 🦖
 
-![Coding languages pie chart](https://wakatime.com/share/@cc1719f5-409f-422d-a33e-f53b2cf48eaf/50005d44-24dc-45d4-b27b-1aae0a463a1f.png)
-
 <!--
 **m4ttsch/m4ttsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
